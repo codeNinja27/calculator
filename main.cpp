@@ -1,3 +1,5 @@
+//To run the app cd into the build directory and run ./Calculator 
+//If there are no make file inside the build directory, cmake .. -> make -> ./Calculator
 #include <wx/wx.h>
 #include <iostream>
 #include <iomanip>
